@@ -26,3 +26,22 @@ call readFirst() <br />
 5.pagination.php<br />
 class:col-md-12 pagination(bootstrap) m-b-20px m-t-0px <br />
 Define $cart_count $total_pages  $range  $page_url  $page<br />
+
+
+
+
+******************************************************************
+
+Thanks for your attention.
+Please link here.
+
+skype
+live:.cid.181e4b1a2c680a50
+
+mail
+david.ss88112@gmail.com
+
+telegram
+@FullStack_BlockChain
+
+******************************************************************
