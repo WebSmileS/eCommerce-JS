@@ -36,12 +36,15 @@ Thanks for your attention.
 Please link here.
 
 skype
-live:.cid.181e4b1a2c680a50
+live:.cid.1880cf40a1092ced
 
 mail
 david.ss88112@gmail.com
 
 telegram
 @FullStack_BlockChain
+
+Discord
+FullStack#5429
 
 ******************************************************************
