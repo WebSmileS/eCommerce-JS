@@ -47,7 +47,4 @@ telegram
 Discord
 FullStack#5429
 
-Freelancer account isn't mine, so I'll pay you without freelancer by payoneer of paypayl.
-
-OK?
 ******************************************************************
